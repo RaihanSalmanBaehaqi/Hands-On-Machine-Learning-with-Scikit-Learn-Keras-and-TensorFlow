@@ -1,8 +1,8 @@
 **AUTHOR: RAIHAN SALMAN BAEHAQI (1103220180)**
 
-![cover.jpg](./cover.jpg)
-
 **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+
+![cover.jpg](./cover.jpg)
 
 **Repository Overview**
 
